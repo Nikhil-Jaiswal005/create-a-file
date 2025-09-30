@@ -1,0 +1,10 @@
+<?php
+$firstName="Manpreet";
+$lastName="kaur";
+echo "Hello , my name is ".$firstName.",$lastName;
+
+
+
+
+
+?>
